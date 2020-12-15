@@ -1,6 +1,7 @@
-document.addEventListener('DOMContentLoaded', () =>{ //add the code inside this event to run everything after 
-																										//the DOM is already loaded, use this event if you want to 
-																										//link the script file on the top of the html code
+//add the code inside this event to run everything after the DOM is already loaded, 
+//use this event if you want to link the script file on the top of the html code
+document.addEventListener('DOMContentLoaded', () =>{ 
+																										
 
 
 // console.log(Array.isArray(titles)); // to check if its an array
